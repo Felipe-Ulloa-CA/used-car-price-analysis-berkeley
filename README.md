@@ -13,6 +13,7 @@ Using CRISP-DM as a guiding framework, the project includes data understanding, 
 
 ## 📁 Repository Structure
 
+```
 
 used-car-price-analysis-berkeley/
 │
@@ -21,6 +22,7 @@ used-car-price-analysis-berkeley/
 │
 └── README.md # Summary of findings for non-technical audience
 
+```
 
 
 ---
