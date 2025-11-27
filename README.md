@@ -9,23 +9,16 @@ This repository contains the deliverables for the **Practical Application 11.1 �
 The goal of this analysis is to identify the key factors that influence the price of used cars.  
 Using CRISP-DM as a guiding framework, the project includes data understanding, cleaning, preprocessing, visualization, modeling, evaluation, and final recommendations for a group of used-car dealerships interested in optimizing their inventory strategy.
 
----
-
 ## 📁 Repository Structure
 
 ```
-
 used-car-price-analysis-berkeley/
 │
 ├── notebooks/
-│ └── used_car_price_analysis.ipynb # Full Jupyter Notebook with CRISP-DM, EDA, modeling, evaluation
+│   └── used_car_price_analysis.ipynb     # Full Jupyter Notebook with CRISP-DM, EDA, modeling, evaluation
 │
-└── README.md # Summary of findings for non-technical audience
-
+└── README.md                             # Summary of findings for non-technical audience
 ```
-
-
----
 
 ## 🔍 Key Findings Summary
 
