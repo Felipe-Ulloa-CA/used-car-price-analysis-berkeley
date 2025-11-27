@@ -12,12 +12,14 @@ Using CRISP-DM as a guiding framework, the project includes data understanding, 
 ## 📁 Repository Structure
 
 ```
+
 used-car-price-analysis-berkeley/
 │
 ├── notebooks/
 │   └── used_car_price_analysis.ipynb     # Full Jupyter Notebook with CRISP-DM, EDA, modeling, evaluation
 │
 └── README.md                             # Summary of findings for non-technical audience
+
 ```
 
 ## 🔍 Key Findings Summary
