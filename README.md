@@ -61,7 +61,7 @@ used-car-price-analysis-berkeley/
 
 **Felipe Eduardo Ulloa Orellana**  
 UC Berkeley Professional Certificate in Machine Learning & AI  
-Silicon Valley, California
+Silicon Valley, California.
 
 
 
