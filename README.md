@@ -4,12 +4,12 @@ This repository contains the deliverables for the **Practical Application 11.1 �
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this analysis is to identify the key factors that influence the price of used cars.  
 Using CRISP-DM as a guiding framework, the project includes data understanding, cleaning, preprocessing, visualization, modeling, evaluation, and final recommendations for a group of used-car dealerships interested in optimizing their inventory strategy.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 used-car-price-analysis-berkeley/
@@ -20,7 +20,7 @@ used-car-price-analysis-berkeley/
 └── README.md                             # Summary of findings for non-technical audience
 ```
 
-## 🔍 Key Findings Summary
+## Key Findings Summary
 
 - **Vehicle Year** and **Odometer** reading are the strongest predictors of price.
 - Newer cars with lower mileage command a significantly higher value.
@@ -31,7 +31,7 @@ used-car-price-analysis-berkeley/
 
 ---
 
-## 📊 Techniques Used
+## Techniques Used
 
 - **Python Libraries:** Pandas, NumPy, Seaborn, Matplotlib  
 - **Models:** Linear Regression, Multiple Regression, Ridge, Lasso, Random Forest  
@@ -40,7 +40,7 @@ used-car-price-analysis-berkeley/
 
 ---
 
-## 📈 Business Recommendations
+## Business Recommendations
 
 - Prioritize purchasing **newer cars with lower mileage** for best resale value.
 - Focus on **high-resale manufacturers** (Toyota, Subaru, Honda).
@@ -50,14 +50,14 @@ used-car-price-analysis-berkeley/
 
 ---
 
-## 📎 Notebook Link
+## Notebook Link
 
-👉 View the full analysis here:  
+View the full analysis here:  
 `/notebooks/used_car_price_analysis.ipynb`
 
 ---
 
-## 👤 Author
+## Author
 
 **Felipe Eduardo Ulloa Orellana**  
 UC Berkeley Professional Certificate in Machine Learning & AI  
