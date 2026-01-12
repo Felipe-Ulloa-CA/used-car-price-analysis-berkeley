@@ -36,7 +36,7 @@ used-car-price-analysis-berkeley/
 - **Python Libraries:** Pandas, NumPy, Seaborn, Matplotlib  
 - **Models:** Linear Regression, Ridge Regression, Lasso Regression.  
 - **Tools:** GridSearchCV, train/test split, cross-validation  
-- **Evaluation Metrics:** RMSE, MAE, R²  
+- **Evaluation Metrics:** RMSE, MAE, 
 
 ---
 
