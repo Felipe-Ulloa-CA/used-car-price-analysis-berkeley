@@ -1,4 +1,4 @@
-# Used Car Price Analysis – UC Berkeley ML & AI (Practical Application 11.1)
+# UC Berkeley – Professional Certificate in Machine Learning & Artificial Intelligence Practical Application 11.1 – What Determines the Price of a Car?
 
 This repository contains the deliverables for the **Practical Application 11.1 – What Determines the Price of a Car**, part of the UC Berkeley Professional Certificate in Machine Learning & Artificial Intelligence.
 
@@ -26,7 +26,7 @@ used-car-price-analysis-berkeley/
 - Newer cars with lower mileage command a significantly higher value.
 - Certain manufacturers (Toyota, Honda, Subaru) retain higher resale prices.
 - **Condition** category strongly affects the price — “excellent/good” vehicles perform best.
-- Among the tested models, **Random Forest** and **Ridge Regression** showed the best performance.
+- Among the tested models, Ridge Regression showed the best overall performance, providing slightly improved stability compared to standard linear regression.
 - Cross-validation revealed that simple linear regression tends to overfit without regularization.
 
 ---
@@ -34,7 +34,7 @@ used-car-price-analysis-berkeley/
 ## Techniques Used
 
 - **Python Libraries:** Pandas, NumPy, Seaborn, Matplotlib  
-- **Models:** Linear Regression, Multiple Regression, Ridge, Lasso, Random Forest  
+- **Models:** Linear Regression, Ridge Regression, Lasso Regression.  
 - **Tools:** GridSearchCV, train/test split, cross-validation  
 - **Evaluation Metrics:** RMSE, MAE, R²  
 
