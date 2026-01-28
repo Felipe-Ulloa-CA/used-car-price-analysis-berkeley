@@ -53,7 +53,8 @@ This project applies supervised machine learning methodologies to investigate un
 ## Notebook Link
 
 View the full analysis here:  
-`/notebooks/used_car_price_analysis.ipynb`
+https://github.com/Felipe-Ulloa-CA/used-car-price-analysis-berkeley/blob/main/notebooks/used_car_price_analysis.ipynb
+
 
 ---
 
